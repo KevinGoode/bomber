@@ -19,7 +19,6 @@ function preload () {
     //Explosions are 32x32 and there are 16 frames
     game.load.spritesheet('explode', 'assets/explode.png', EXPLODE_DX, EXPLODE_DY, 16);
     storeys = game.add.group();
-    initVariables();
 
 }
 //All times in seconds. All distances in pixels
@@ -57,7 +56,7 @@ var levelText;
 var level=1;
 var storey=0;
 function create () {
-
+    initVariables();
     storey = 0;
     initGameArea();
     stars = game.add.group();
