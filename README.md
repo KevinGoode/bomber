@@ -15,8 +15,6 @@ Press 'Enter' for new game.
 ## How to get Started with Phaser
 
 
-
-
 1.)    Download all examples as zip and unzip.
 
 https://github.com/photonstorm/phaser-examples
