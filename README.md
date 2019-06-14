@@ -34,9 +34,6 @@ into a file (eg.html) and place this file on your local machine in the unzipped 
 
 ## Useful Tools
 
-------------
-
-
 Sprite creator/editor: gimp or https://www.piskelapp.com/
 
 Free resources:  https://opengameart.org/content/free-world-war-game-theme
