@@ -12,9 +12,9 @@ When all buildings demolised go to next level which is progressively harder.
 Press 'Enter' for new game.
 
 
-HOW TO GET STARTED WITH PHASER
+## How to get Started with Phaser
 
-------------------------------
+
 
 
 1.)    Download all examples as zip and unzip.
@@ -34,7 +34,7 @@ into a file (eg.html) and place this file on your local machine in the unzipped 
 5.)    Documentation at https://photonstorm.github.io/phaser3-docs/index.htm
 
 
-USEFUL TOOLS
+## Useful Tools
 
 ------------
 
