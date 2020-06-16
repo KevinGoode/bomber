@@ -1,6 +1,8 @@
 # bomber
 This project contains a simple game using phaser (html5) games engine .
 
+![Image of Fokker](https://github.com/KevinGoode/bomber/blob/master/assets/Fokker_default.png)
+
 How to play:
 
 Press space bar to release bomb.
