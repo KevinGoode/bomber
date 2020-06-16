@@ -1,7 +1,7 @@
-# bomber
+# bomber ![Image of Fokker](https://github.com/KevinGoode/bomber/blob/master/assets/Fokker_default.png)
 This project contains a simple game using phaser (html5) games engine .
 
-![Image of Fokker](https://github.com/KevinGoode/bomber/blob/master/assets/Fokker_default.png)
+![Image of Fokker](https://github.com/KevinGoode/bomber/blob/master/assets/screenshot.png)
 
 How to play:
 
